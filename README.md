@@ -76,7 +76,7 @@ _Next Up: Familiar Face Detection, then GUI. *Watch* this repo to be notified as
 
 List:
 
-- Nvidia Jetson Xavier (https://www.amazon.com/NVIDIA-Jetson-AGX-Xavier-Developer/dp/B07G5FCJQB) or Jetson Nano (https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-Kit/dp/B07PZHBDKT)
+- Nvidia Jetson Xavier (https://www.amazon.com/NVIDIA-Jetson-AGX-Xavier-Developer/dp/B07G5FCJQB)
 - 1TB PCIe NVMe - M.2 (https://www.amazon.com/Samsung-970-PRO-Internal-MZ-V7P1T0BW/dp/B07BYHGNB5)
 - Wireless Network Adapter (https://www.amazon.com/Wireless-Card-2-4GHz-Intel-8265-NGW/dp/B07Q3NG5CZ)
 - Antennas for Wireless Adapter (https://www.amazon.com/CHAOHANG-RP-SMA-Antenna-Soldering-Wireless/dp/B01E29566W)
@@ -91,7 +91,7 @@ List:
 - Jetson Nano Case
 - Wireless Network Adapter (https://www.amazon.com/Wireless-Card-2-4GHz-Intel-8265-NGW/dp/B07Q3NG5CZ)
 - Antannas
-- 512 GB USB3 SSD
+- 1TB USB3 SSD (https://www.amazon.com/SAMSUNG-Portable-SSD-500GB-MU-PC500R/dp/B0874YDQ9K)
 - Jetson Nano Car Power Barrel Style Adapter (Altranately USB Micro For Slower Lower Power Use)
 
 # Disclaimer
