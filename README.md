@@ -1,3 +1,5 @@
+# The sole purpose of this fork is to piece out and add what is nessasary to give Scout project actual compatability with Jetson Nano
+
 # Surveillance Detection Scout - Your Lookout on Autopilot
 
 [![DEFCON 22 Badge](https://img.shields.io/badge/DEFCON-27-blue.svg)](https://defcon.org/html/defcon-27/dc-27-speakers.html#Kain)
@@ -70,7 +72,7 @@ Try powering down the Xavier and plugging it into a Tesla USB slot (unplug your 
 
 _Next Up: Familiar Face Detection, then GUI. *Watch* this repo to be notified as code is released. Releasing code as soon as I am able._
 
-# BOM
+# Nvidia Jetson Xavier BOM
 
 List:
 
@@ -80,6 +82,17 @@ List:
 - Antennas for Wireless Adapter (https://www.amazon.com/CHAOHANG-RP-SMA-Antenna-Soldering-Wireless/dp/B01E29566W)
 - USB C Car Charger - 30W Minimum (https://www.amazon.com/Charger-Anker-PowerDrive-Adapter-MacBook/dp/B071WYF9HP)
 - USB C Cable (https://www.amazon.com/Anker-PowerLine-Durability-Including-Matebook/dp/B071XYBPMN)
+
+# Nvidia Jetson Nano BOM
+
+List:
+
+- Jetson Nano (https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-Kit/dp/B07PZHBDKT)
+- Jetson Nano Case
+- Wireless Network Adapter (https://www.amazon.com/Wireless-Card-2-4GHz-Intel-8265-NGW/dp/B07Q3NG5CZ)
+- Antannas
+- 512 GB USB3 SSD
+- Jetson Nano Car Power Barrel Style Adapter (Altranately USB Micro For Slower Lower Power Use)
 
 # Disclaimer
 
